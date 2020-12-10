@@ -26,7 +26,7 @@
  */
 function DataloaderConfig(options) {
 
-	var dl = 'https://geobrowser.de.dariah.eu/';
+	var dl = 'http://localhost/';
 
 	this.options = {
 		staticKML : [
